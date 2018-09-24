@@ -5,7 +5,6 @@
     <classes>
       <class name="com.jenkinss.Testone">
         <methods>
-          <include name="div"/>
           <include name="sub"/>
         </methods>
       </class> <!-- com.jenkinss.Testone -->
