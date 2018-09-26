@@ -82,7 +82,7 @@
  
  
  
- <build>
+ <!--  <build>
 
 	<plugins>
 
@@ -115,6 +115,6 @@
 
 </plugins>
 
- </build>
+ </build> -->
  
  </project>
